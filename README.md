@@ -34,4 +34,4 @@ Conceptualization to deployment and ensure application performance, uptime, and 
 ---
 
 ### INTERESTS
-Apart from being a full stack developer, I love travelling to different countries and explore different cultures.
+Apart from being a full stack developer, I love travelling to different places and explore different cultures.
