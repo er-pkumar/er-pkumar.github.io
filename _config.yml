@@ -1,1 +1,11 @@
+title: Pintu Kumar # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Software Engineer
+  <br><br>
+  <a href="mailto:pkumar.hi07@gmail.com">pkumar.hi07@gmail.com</a>
+  <br>
+  <a href="https://www.linkedin.com/in/pintu-kumar-5b042463/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/er-pkumar/">Gihub</a> 
 theme: jekyll-theme-minimal
